@@ -7,6 +7,7 @@ let startTime = 0
 let elapsedTime = 0
 let paused = true
 let intervalId
+
 let minisecs = 0
 let secs = 0
 let mins = 0
