@@ -1,3 +1,4 @@
+// connect to html
 const timeDisplay = document.querySelector("#timeDisplay")
 const startBtn = document.querySelector("#startBtn")
 const pauseBtn = document.querySelector("#pauseBtn")
@@ -7,7 +8,7 @@ let startTime = 0
 let elapsedTime = 0
 let paused = true
 let intervalId
-
+//time
 let minisecs = 0
 let secs = 0
 let mins = 0
